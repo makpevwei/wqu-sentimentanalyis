@@ -1,1 +1,1 @@
-# wqu-sentimentanalysis
+# sentimentanalysis
